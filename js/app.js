@@ -135,7 +135,7 @@ Player.prototype.handleInput = function (input) {
    */
   if (newGame == true) {
     if (input == 'enter') {
-      player.charSelect();
+      this.charSelect();
     }
   }
   if (newGame == false) {
