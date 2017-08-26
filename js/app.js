@@ -106,7 +106,7 @@ var Player = function() {
   // Initially sets the player sprite as the selector image, to allow player to
   // select their sprite.
   // Uses movedX and movedY properties to track the player's movement input.
-    this.sprite = 'images/selector.png';
+    this.sprite = 'images/Selector.png';
     this.x = columnWidth * 2;
     this.y = (rowHeight * 5) - 20;
     this.movedX = columnWidth * 2;
