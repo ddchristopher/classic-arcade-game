@@ -207,7 +207,7 @@ var Engine = (function(global) {
         score = 0;
         ctx.clearRect(200, 0, 200, 40);
         ctx.fillText("Score: " + score, 200, 40);
-        player.sprite = 'images/Selector.png';
+        player.sprite = 'images/selector.png';
         alert("Game Over! Click OK to restart.");
         init();
 
