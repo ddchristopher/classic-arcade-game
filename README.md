@@ -2,7 +2,9 @@
 
 ## How to Run
 
-Download the GitHub repository and open the index.html file in a browser to begin the game.
+Live version available at https://ddchristopher.github.io/classic-arcade-game/
+
+Alternately, download the GitHub repository and open the index.html file in a browser to begin the game.
 
 ## How to Play
 
